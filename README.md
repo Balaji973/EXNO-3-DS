@@ -1,4 +1,6 @@
 ## EXNO-3-DS
+# NAME : BALAJI J
+# DATE : 1/5/2025
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
